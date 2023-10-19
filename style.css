@@ -1,0 +1,30 @@
+html,body {
+    height: 100%;
+}
+body {
+    background-image: url('image/bg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-login {
+    background-color: rgb(236, 240, 240,.36);
+    border-radius: 10px;
+    max-width: 450px;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.btn-primary {
+    background: rebeccapurple;
+    border: 0;
+}
+
+
+
+
+
+
+
